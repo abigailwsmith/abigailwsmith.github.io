@@ -1,0 +1,25 @@
+---
+title: "Completed Courses"
+---
+
+Here is some information about the Data Science courses that I have completed at St. Lawrence University.
+
+::: {.callout-note collapse="true" title="Stat 113 - Applied Statistics" appearance="simple"}
+An introduction to statistics with emphasis on applications. Topics include the description of data with numerical summaries and graphs, the production of data through sampling and experimental design, techniques of making inferences from data such as confidence intervals, and hypothesis tests for both categorical and quantitative data. The course includes an introduction to computer analysis of data with a statistical computing package.
+:::
+
+::: {.callout-note collapse="true" title="Stat 213 - Applied Regression Analysis" appearance="simple"}
+A continuation of Statistics 113 intended for students in the physical, social or behavioral sciences. Topics include simple and multiple linear regression, model diagnostics and testing, residual analysis, transformations, indicator variables, variable selection techniques, logistic regression, and analysis of variance. Most methods assume use of a statistical computing package.
+:::
+
+::: {.callout-note collapse="true" title="Stat/Data 234 - Foundations of Data Science" appearance="simple"}
+An introduction to fundamental data science concepts using modern statistical programming languages and software. The course assumes no prior knowledge of programming but a familiarity with basic statistics is required. The course focuses on building essential data science skills such as data manipulation and visualization, basics of programming, string manipulation, and modern data sources (such as web and databases). Emphasis will be placed on building skills applicable to large scale projects.
+:::
+
+::: {.callout-note collapse="true" title="Stat/Data 334 - Data Visualization" appearance="simple"}
+A continuation of Stat/Data 234 with a focus on deepening data visualization skills with heavy usage of a modern statistical programming language. Class discussion includes how to select an appropriate visualization and what characteristics make a visualization "good," with an emphasis on building these skills to apply them to projects. Topics include statistical model visualization, mapping data, visualizing text data, expressing uncertainty appropriately, and interactive visualizations. 
+:::
+
+::: {.callout-note collapse="true" title="CS 140 - Intro to Computer Program" appearance="simple"}
+An introduction to programming using a high-level language. Assumes no prior knowledge of programming, and focuses on essential skills. Students learn to create programs ranging from practical utilities to simple games.
+:::

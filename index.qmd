@@ -2,4 +2,4 @@
 title: "abigailwsmith.github.io"
 ---
 
-Welcome!
+Welcome, this is my website, I code it all in R!
