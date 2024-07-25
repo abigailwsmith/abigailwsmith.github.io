@@ -1,5 +1,5 @@
 ---
-title: "abigailwsmith.github.io"
+title: "Welcome To My Site"
 ---
 
 Welcome, this is my website, I code it all in R!
