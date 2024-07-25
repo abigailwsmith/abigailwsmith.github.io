@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "abigailwsmith.github.io",
     "section": "",
-    "text": "Welcome!"
+    "text": "Welcome, this is my website, I code it all in R!"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About Me",
     "section": "",
     "text": "I am a rising junior at St. Lawrence University with a double major in data science and history. I am a member of the Women’s Varsity Crew team at St. Lawrence. I enjoy studying sports statistics, in particular baseball, but I enjoy studying all sports. This summer (2024) I had the amazing experience working on the SCORE Network Research Fellowship at St. Lawrence. I look forward to exploring more data science in the upcoming school year (2024-25)."
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Completed Courses",
+    "section": "",
+    "text": "Here is some information about the Data Science courses that I have completed at St. Lawrence University.\n\n\n\n\n\n\nStat 113 - Applied Statistics\n\n\n\n\n\nAn introduction to statistics with emphasis on applications. Topics include the description of data with numerical summaries and graphs, the production of data through sampling and experimental design, techniques of making inferences from data such as confidence intervals, and hypothesis tests for both categorical and quantitative data. The course includes an introduction to computer analysis of data with a statistical computing package.\n\n\n\n\n\n\n\n\n\nStat 213 - Applied Regression Analysis\n\n\n\n\n\nA continuation of Statistics 113 intended for students in the physical, social or behavioral sciences. Topics include simple and multiple linear regression, model diagnostics and testing, residual analysis, transformations, indicator variables, variable selection techniques, logistic regression, and analysis of variance. Most methods assume use of a statistical computing package.\n\n\n\n\n\n\n\n\n\nStat/Data 234 - Foundations of Data Science\n\n\n\n\n\nAn introduction to fundamental data science concepts using modern statistical programming languages and software. The course assumes no prior knowledge of programming but a familiarity with basic statistics is required. The course focuses on building essential data science skills such as data manipulation and visualization, basics of programming, string manipulation, and modern data sources (such as web and databases). Emphasis will be placed on building skills applicable to large scale projects.\n\n\n\n\n\n\n\n\n\nStat/Data 334 - Data Visualization\n\n\n\n\n\nA continuation of Stat/Data 234 with a focus on deepening data visualization skills with heavy usage of a modern statistical programming language. Class discussion includes how to select an appropriate visualization and what characteristics make a visualization “good,” with an emphasis on building these skills to apply them to projects. Topics include statistical model visualization, mapping data, visualizing text data, expressing uncertainty appropriately, and interactive visualizations.\n\n\n\n\n\n\n\n\n\nCS 140 - Intro to Computer Program\n\n\n\n\n\nAn introduction to programming using a high-level language. Assumes no prior knowledge of programming, and focuses on essential skills. Students learn to create programs ranging from practical utilities to simple games."
   }
 ]
