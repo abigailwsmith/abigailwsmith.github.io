@@ -2,18 +2,36 @@ project:
   type: website
 
 website:
-  title: "abigailwsmith.github.io"
+  site-url: "https://abigailwsmith.github.io/"
+  title: "Abigail Smith"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: courses.qmd
+        text: Completed Courses
+      - href: projects.qmd
+        text: Projects
+      - text: Get in touch
+        menu:
+          - icon: linkedin
+            text: LinkedIn
+            href: https://www.linkedin.com/in/abigail-smith-57765b221/
+            target: _blank
+          - icon: envelope
+            text: Email
+            href: mailto:awsmit22@stlawu.edu
+          - icon: github
+            text: GitHub
+            href: https://github.com/abigailwsmith
+            target: _blank
 
 format:
   html:
+    page-layout: full
+    sidebar: false
     theme: cosmo
     css: styles.css
     toc: true
-
-
-
